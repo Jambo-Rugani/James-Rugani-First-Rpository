@@ -2,7 +2,7 @@
 ## this is a **fake** project 
 ### for real its just for learning purposes
 
-`// this is a **big meme**`
+// this is a **big meme**
 
 
 to do list 
@@ -11,10 +11,10 @@ to do list
 - **survive** GADE 
 
 
-`//why are you still here`
+why are you still here
 
-`//like seriously you need to go`
+like seriously you need to go
 
-`// alright cheers` 
+alright cheers 
 
  
