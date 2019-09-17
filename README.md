@@ -1,23 +1,11 @@
-# heading 1
-## heading 2 
-### heading 3 
+# 1legion.SA.Jambo
+## this is a fake project 
+### for real its justr for learning purposes
 
-`//this is will be signle line of code`
+`//why are you still here`
 
-```
+`//like seriously you need to go`
 
-`// multiple lines of code can go here` 
-for(int 1 = 0; i< 10; i++){
-    Console.Writeline(i)
+`// alright cheers` 
 
-}
-```
-
-this is a list 
-+ list item one
-- list item two 
-+list item three 
-
-1. list item 1 
-2. list item 2
-3. list item 3  
+ 
